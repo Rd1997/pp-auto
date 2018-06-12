@@ -1,5 +1,5 @@
 # pp-auto
-
+Save the sql file with name pp as database name
 1. Start with login page 
 2. Check login id and password from login table in database 
 3. which will direct the page sp.php student profile which student has to fill
